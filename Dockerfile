@@ -1,1 +1,1 @@
-FROM vault:1.12.0-rc1
+FROM vault:1.12.0-rc1@sha256:8ede97214dd0059c4984bc70b9c4ed9d682886ebc13dca6b73221dd3c61e0030
