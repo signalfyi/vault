@@ -1,0 +1,9 @@
+## Dockerfile
+
+### Docker Image: vault:1.12.0-rc1
+| Severity | Count |
+|----------|-------|
+| high | 57 |
+| medium | 19 |
+| critical | 6 |
+| low | 3 |
